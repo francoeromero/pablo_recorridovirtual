@@ -3,7 +3,7 @@
     0% {
       opacity: 1;
     }
-    50% {
+    80% {
         opacity: 1;
       }
     99% {
@@ -29,7 +29,7 @@
     align-items: center;
     justify-content: center;
     color: #191654;
-    animation: cuentaAtras 4s forwards;
+    animation: cuentaAtras 3s forwards;
   }
   
   #svg {
